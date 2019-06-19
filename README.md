@@ -7,14 +7,18 @@ Each of our open-source repositories that has open-work available will have a de
 # Process For Taking An Issue And Working On It
 
 * Make sure no one else is currently working on the issue. If someone has expressed interest, and after being engaged there is no response for 2 weeks, feel free to express your interest as well.
-* Express your interest in working on a particular issue. To do this, please comment on the appropriate repository issue within `RTradeLtd/issues`, and also on the corresponding issue for whatever repository it applies to, such as `RTradeLtd/Pay`.
+* Express your interest in working on a particular issue. To do this, please leave a comment indicating your interest.
 * If you don't need any guidance on work involved in an issue, feel free to get started right away
 * If you do need some assistance, wait for a project maintainer to get back to you.
-* All submissions MUST include tests, they will not be accepted otherwise
-* After you have finished working on the specified issue, please submit a PR in the appropriate repository (ie, if working on `RTradeLtd/Pay` please submit your PR within `RTradeLtd/Pay`).
-* Do not worry about updating your comments in the issues here, a repository maintainer will handle curating comments, and closed issues.
 
-Priority for assigning issues (in case multiple people have expressed interest) are in the following order:
+## Guidelines
+
+* All submissions MUST include tests, they will not be accepted otherwise
+* Do not worry about updating your comments in the issues here after completing a particular task, a repository maintainer will handle curating comments, and closed issues.
+
+## Assignment Priorities
+
+Priority for assigning issues (in case multiple people have expressed interest) are in the following order
 
 * RTrade employees (developers that are members of this github organization)
 * Outside collaborators (anyone who is not a member of the github organization)

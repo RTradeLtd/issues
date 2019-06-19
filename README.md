@@ -2,7 +2,7 @@
 
 This is a "meta-repository" that aggregates the various active "good first issue" and "help wanted" labeled github issues across all open-source `RTradeLtd` code-bases. The idea is by providing a central repository of information, it is easier for developers to find areas to contribute code via existing github issues. Additionally, if you are unsure where to submit a "feature request", this would be a good place to do it.
 
-To view available issues, please see the corresponding github issue in this repository for a particular repository, such as `RTradeLtd/thc`
+Each of our open-source repositories that has open-work available will have a dedicated issue in `RTradeLtd/issues` (this repository). Within each of those "meta-issues" is where you can see different tasks up for grabs, and indicate that you are interested in working on a particular task.
 
 # Process For Taking An Issue And Working On It
 
@@ -11,10 +11,18 @@ To view available issues, please see the corresponding github issue in this repo
 * If you don't need any guidance on work involved in an issue, feel free to get started right away
 * If you do need some assistance, wait for a project maintainer to get back to you.
 * All submissions MUST include tests, they will not be accepted otherwise
+* After you have finished working on the specified issue, please submit a PR in the appropriate repository (ie, if working on `RTradeLtd/Pay` please submit your PR within `RTradeLtd/Pay`).
+* Do not worry about updating your comments in the issues here, a repository maintainer will handle curating comments, and closed issues.
 
 Priority for assigning issues (in case multiple people have expressed interest) are in the following order:
+
 * RTrade employees (developers that are members of this github organization)
 * Outside collaborators (anyone who is not a member of the github organization)
+
+# Feedback
+
+If there's anything that you think could be improved, or changed about this repository and community engagement method, feel free to say so.
+
 
 # Available Issues
 

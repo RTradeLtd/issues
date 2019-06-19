@@ -4,6 +4,13 @@ This is a "meta-repository" that aggregates the various active "good first issue
 
 To view available issues, please see the corresponding github issue in this repository for a particular repository, such as `RTradeLtd/thc`
 
+# Process For Taking An Issue And Working On It
+
+* Make sure no one else is currently working on the issue. If someone has expressed interest, and after being engaged there is no response for 2 weeks, feel free to express your interest as well.
+* Express your interest in working on a particular issue. To do this, please comment on the appropriate repository issue within `RTradeLtd/issues`, and also on the corresponding issue for whatever repository it applies to, such as `RTradeLtd/Pay`.
+* If you don't need any guidance on work involved in an issue, feel free to get started right away
+* If you do need some assistance, wait for a project maintainer to get back to you.
+* All submissions MUST include tests, they will not be accepted otherwise
 
 # Available Issues
 

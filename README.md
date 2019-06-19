@@ -12,6 +12,10 @@ To view available issues, please see the corresponding github issue in this repo
 * If you do need some assistance, wait for a project maintainer to get back to you.
 * All submissions MUST include tests, they will not be accepted otherwise
 
+Priority for assigning issues (in case multiple people have expressed interest) are in the following order:
+* RTrade employees (developers that are members of this github organization)
+* Outside collaborators (anyone who is not a member of the github organization)
+
 # Available Issues
 
 ## [temporal](https://github.com/RTradeLtd/issues/issues/8)

@@ -61,3 +61,7 @@ rtns is a standalone IPNS name server
 ## [thc](https://github.com/RTradeLtd/issues/issues/1)
 
 thc is a http client for Temporal's API
+
+## [go-ds-bbolt](https://github.com/RTradeLtd/issues/issues/9)
+
+a datastore implementation using BoltDB

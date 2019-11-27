@@ -50,10 +50,6 @@ Lens is an IPFS search engine
 
 Pay is a cryptocurrency payment backend
 
-## [go-libp2p-pubsub-grpc](https://github.com/RTradeLtd/issues/issues/3)
-
-go-libp2p-pubsub-grpc is a dedicated libp2p pubsub module controlled via gRPC
-
 ## [rtns](https://github.com/RTradeLtd/issues/issues/2)
 
 rtns is a standalone IPNS name server
